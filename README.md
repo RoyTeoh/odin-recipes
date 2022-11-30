@@ -1,1 +1,2 @@
 # odin-recipes
+ This project is Odin's project on Recipes. In this project some of the skills I will be displaying is making use of the HTML knwoledge I have acquired by building a basic recipe website 
